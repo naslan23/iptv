@@ -1551,3 +1551,7 @@ http://117.148.179.158/PLTV/88888888/224/3221231664/index.m3u8
 http://117.148.179.183/PLTV/88888888/224/3221231489/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN微电影
 http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="港澳台",CA FAIRCHILD
+http://gtv23.xyz:80/50005000/50005000/1102573.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="港澳台",FAIRCHILD 2
+http://gtv23.xyz:80/50005000/50005000/1102636.m3u8?checkedby:iptvcat.com
